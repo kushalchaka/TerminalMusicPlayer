@@ -13,7 +13,7 @@ To run the program, run this
 ~~~
 ./musicplayer
 ~~~
-## Fixes to common issues
+## Fixes to common issues (on Linux, untested on Windows and Mac so cannot verify that this will work on those OS)
 ~~~
 sudo apt-get update
 sudo apt-get install libsdl2-dev libsdl2-mixer-dev install libsfml-dev
