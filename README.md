@@ -4,6 +4,8 @@
 - Space followed by Enter to play/pause
 - Ctrl + C to exit
 
+I made this to work alongside a different program, so hopefully this is of some use to others as well with similar goals :)
+
 ## First Time Setup
 To compile the program, use this command
 ~~~
