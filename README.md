@@ -7,6 +7,9 @@
 I made this to work alongside a different program, so hopefully this is of some use to others as well with similar goals :)
 
 ## First Time Setup
+
+Create a directory called downloadedMusic to put your music files inside of first
+
 To compile the program, use this command
 ~~~
   g++ musicplayer.cpp -o musicplayer -lSDL2 -lSDL2_mixer -lsfml-graphics -lsfml-window -lsfml-system -lpthread -I /path/to/SDL2/include -L /path/to/SDL2/lib -std=c++17
